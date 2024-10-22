@@ -1,8 +1,5 @@
 import openai
 
-# openai.api_key="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"
-
-
 openai.api_type = "open_ai"
 openai.api_base = "http://localhost:1234/v1"
 openai.api_key = "Whatever"
